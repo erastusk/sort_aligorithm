@@ -2,7 +2,7 @@ BASIC SORTING ALIGORITHMS AND PERFORMANCE
 
 Test Data
 ----------
-Random Integers generated using : random.sample(range(1, 100000000), 1000)
+random.sample(range(1, 100000000), 1000)
 
 
 
